@@ -8591,9 +8591,9 @@ function resolveLocaleChain(locale) {
 
 /***/ }),
 /* 5 */
-/*!**********************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/pages.json ***!
-  \**********************************************************************/
+/*!***********************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/pages.json ***!
+  \***********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8734,9 +8734,9 @@ function normalizeComponent (
 
 /***/ }),
 /* 12 */
-/*!******************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/index.js ***!
-  \******************************************************************************************/
+/*!*******************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/index.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8818,9 +8818,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 13 */
-/*!*****************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/mixin/mixin.js ***!
-  \*****************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/mixin/mixin.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8972,9 +8972,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 14 */
-/*!*******************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/mixin/mpMixin.js ***!
-  \*******************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/mixin/mpMixin.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8987,9 +8987,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 15 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/index.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/index.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9000,9 +9000,9 @@ _Request.default;exports.default = _default;
 
 /***/ }),
 /* 16 */
-/*!*******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/Request.js ***!
-  \*******************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/Request.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9208,9 +9208,9 @@ Request = /*#__PURE__*/function () {
 
 /***/ }),
 /* 17 */
-/*!***************************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/dispatchRequest.js ***!
-  \***************************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/dispatchRequest.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9221,9 +9221,9 @@ function _default(config) {return (0, _index.default)(config);};exports.default 
 
 /***/ }),
 /* 18 */
-/*!*********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/adapters/index.js ***!
-  \*********************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/adapters/index.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9329,9 +9329,9 @@ function _default(config) {return new Promise(function (resolve, reject) {
 
 /***/ }),
 /* 19 */
-/*!***********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/helpers/buildURL.js ***!
-  \***********************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/helpers/buildURL.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9408,9 +9408,9 @@ function buildURL(url, params) {
 
 /***/ }),
 /* 20 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/utils.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/utils.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9549,9 +9549,9 @@ function isUndefined(val) {
 
 /***/ }),
 /* 21 */
-/*!*************************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/buildFullPath.js ***!
-  \*************************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/buildFullPath.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9579,9 +9579,9 @@ function buildFullPath(baseURL, requestedURL) {
 
 /***/ }),
 /* 22 */
-/*!****************************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/helpers/isAbsoluteURL.js ***!
-  \****************************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/helpers/isAbsoluteURL.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9603,9 +9603,9 @@ function isAbsoluteURL(url) {
 
 /***/ }),
 /* 23 */
-/*!**************************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/helpers/combineURLs.js ***!
-  \**************************************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/helpers/combineURLs.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9627,9 +9627,9 @@ function combineURLs(baseURL, relativeURL) {
 
 /***/ }),
 /* 24 */
-/*!******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/settle.js ***!
-  \******************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/settle.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9653,9 +9653,9 @@ function settle(resolve, reject, response) {var
 
 /***/ }),
 /* 25 */
-/*!******************************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/InterceptorManager.js ***!
-  \******************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/InterceptorManager.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9713,9 +9713,9 @@ InterceptorManager;exports.default = _default;
 
 /***/ }),
 /* 26 */
-/*!***********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/mergeConfig.js ***!
-  \***********************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/mergeConfig.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9826,9 +9826,9 @@ function _default(globalsConfig) {var config2 = arguments.length > 1 && argument
 
 /***/ }),
 /* 27 */
-/*!********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/defaults.js ***!
-  \********************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/core/defaults.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9864,9 +9864,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 28 */
-/*!******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/luch-request/utils/clone.js ***!
-  \******************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/luch-request/utils/clone.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12212,9 +12212,9 @@ module.exports = Array.isArray || function (arr) {
 
 /***/ }),
 /* 33 */
-/*!****************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/util/route.js ***!
-  \****************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/util/route.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13135,9 +13135,9 @@ if (hadRuntime) {
 
 /***/ }),
 /* 37 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/function/colorGradient.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/function/colorGradient.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13278,9 +13278,9 @@ function colorToRgba(color, alpha) {
 
 /***/ }),
 /* 38 */
-/*!*******************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/function/test.js ***!
-  \*******************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/function/test.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13574,9 +13574,9 @@ function regExp(o) {
 
 /***/ }),
 /* 39 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/function/debounce.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/function/debounce.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13613,9 +13613,9 @@ debounce;exports.default = _default;
 
 /***/ }),
 /* 40 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/function/throttle.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/function/throttle.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13653,9 +13653,9 @@ throttle;exports.default = _default;
 
 /***/ }),
 /* 41 */
-/*!********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/function/index.js ***!
-  \********************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/function/index.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14241,9 +14241,9 @@ function page() {
 
 /***/ }),
 /* 42 */
-/*!*******************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/config.js ***!
-  \*******************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/config.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14276,9 +14276,9 @@ var version = '2.0.11';var _default =
 
 /***/ }),
 /* 43 */
-/*!******************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props.js ***!
-  \******************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14475,9 +14475,9 @@ _upload.default);exports.default = _default;
 
 /***/ }),
 /* 44 */
-/*!******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/actionSheet.js ***!
-  \******************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/actionSheet.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14508,9 +14508,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 45 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/album.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/album.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14541,9 +14541,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 46 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/alert.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/alert.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14571,9 +14571,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 47 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/avatar.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/avatar.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14607,9 +14607,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 48 */
-/*!******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/avatarGroup.js ***!
-  \******************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/avatarGroup.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14638,9 +14638,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 49 */
-/*!**************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/backtop.js ***!
-  \**************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/backtop.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14672,9 +14672,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 50 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/badge.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/badge.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14707,9 +14707,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 51 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/button.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/button.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14757,9 +14757,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 52 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/calendar.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/calendar.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14806,9 +14806,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 53 */
-/*!******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/carKeyboard.js ***!
-  \******************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/carKeyboard.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14829,9 +14829,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 54 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/cell.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/cell.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14872,9 +14872,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 55 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/cellGroup.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/cellGroup.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14897,9 +14897,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 56 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/checkbox.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/checkbox.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14932,9 +14932,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 57 */
-/*!********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/checkboxGroup.js ***!
-  \********************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/checkboxGroup.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14969,9 +14969,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 58 */
-/*!*********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/circleProgress.js ***!
-  \*********************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/circleProgress.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14992,9 +14992,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 59 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/code.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/code.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15021,9 +15021,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 60 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/codeInput.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/codeInput.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15056,9 +15056,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 61 */
-/*!**********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/col.js ***!
-  \**********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/col.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15083,9 +15083,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 62 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/collapse.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/collapse.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15108,9 +15108,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 63 */
-/*!*******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/collapseItem.js ***!
-  \*******************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/collapseItem.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15141,9 +15141,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 64 */
-/*!*******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/columnNotice.js ***!
-  \*******************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/columnNotice.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15173,9 +15173,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 65 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/countDown.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/countDown.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15199,9 +15199,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 66 */
-/*!**************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/countTo.js ***!
-  \**************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/countTo.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15232,9 +15232,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 67 */
-/*!*********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/datetimePicker.js ***!
-  \*********************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/datetimePicker.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15276,9 +15276,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 68 */
-/*!**************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/divider.js ***!
-  \**************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/divider.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15306,9 +15306,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 69 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/empty.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/empty.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15339,9 +15339,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 70 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/form.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/form.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15369,9 +15369,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 71 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/formItem.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/formItem.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15398,9 +15398,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 72 */
-/*!**********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/gap.js ***!
-  \**********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/gap.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15425,9 +15425,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 73 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/grid.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/grid.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15450,9 +15450,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 74 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/gridItem.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/gridItem.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15474,9 +15474,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 75 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/icon.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/icon.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15518,9 +15518,9 @@ var _config = _interopRequireDefault(__webpack_require__(/*! ../config */ 42));f
 
 /***/ }),
 /* 76 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/image.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/image.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15556,9 +15556,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 77 */
-/*!******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/indexAnchor.js ***!
-  \******************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/indexAnchor.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15583,9 +15583,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 78 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/indexList.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/indexList.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15610,9 +15610,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 79 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/input.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/input.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15666,9 +15666,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 80 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/keyboard.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/keyboard.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15704,9 +15704,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 81 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/line.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/line.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15732,9 +15732,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 82 */
-/*!*******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/lineProgress.js ***!
-  \*******************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/lineProgress.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15759,9 +15759,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 83 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/link.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/link.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15793,9 +15793,9 @@ var _config = _interopRequireDefault(__webpack_require__(/*! ../config */ 42));f
 
 /***/ }),
 /* 84 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/list.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/list.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15829,9 +15829,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 85 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/listItem.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/listItem.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15852,9 +15852,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 86 */
-/*!******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/loadingIcon.js ***!
-  \******************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/loadingIcon.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15890,9 +15890,9 @@ var _config = _interopRequireDefault(__webpack_require__(/*! ../config */ 42));f
 
 /***/ }),
 /* 87 */
-/*!******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/loadingPage.js ***!
-  \******************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/loadingPage.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15920,9 +15920,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 88 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/loadmore.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/loadmore.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15957,9 +15957,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 89 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/modal.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/modal.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15995,9 +15995,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 90 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/navbar.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/navbar.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16029,9 +16029,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 91 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/noNetwork.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/noNetwork.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16054,9 +16054,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 92 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/noticeBar.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/noticeBar.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16089,9 +16089,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 93 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/notify.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/notify.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16119,9 +16119,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 94 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/numberBox.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/numberBox.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16162,9 +16162,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 95 */
-/*!*********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/numberKeyboard.js ***!
-  \*********************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/numberKeyboard.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16187,9 +16187,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 96 */
-/*!**************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/overlay.js ***!
-  \**************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/overlay.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16213,9 +16213,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 97 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/parse.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/parse.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16243,9 +16243,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 98 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/picker.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/picker.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16280,9 +16280,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 99 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/popup.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/popup.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16317,9 +16317,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 100 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/radio.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/radio.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16352,9 +16352,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 101 */
-/*!*****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/radioGroup.js ***!
-  \*****************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/radioGroup.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16390,9 +16390,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 102 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/rate.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/rate.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16424,9 +16424,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 103 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/readMore.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/readMore.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16454,9 +16454,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 104 */
-/*!**********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/row.js ***!
-  \**********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/row.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16479,9 +16479,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 105 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/rowNotice.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/rowNotice.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16508,9 +16508,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 106 */
-/*!*****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/scrollList.js ***!
-  \*****************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/scrollList.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16536,9 +16536,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 107 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/search.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/search.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16580,9 +16580,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 108 */
-/*!**************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/section.js ***!
-  \**************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/section.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16612,9 +16612,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 109 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/skeleton.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/skeleton.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16645,9 +16645,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 110 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/slider.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/slider.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16677,9 +16677,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 111 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/statusBar.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/statusBar.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16700,9 +16700,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 112 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/steps.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/steps.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16729,9 +16729,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 113 */
-/*!****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/stepsItem.js ***!
-  \****************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/stepsItem.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16755,9 +16755,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 114 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/sticky.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/sticky.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16783,9 +16783,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 115 */
-/*!*****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/subsection.js ***!
-  \*****************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/subsection.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16814,9 +16814,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 116 */
-/*!******************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/swipeAction.js ***!
-  \******************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/swipeAction.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16837,9 +16837,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 117 */
-/*!**********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/swipeActionItem.js ***!
-  \**********************************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/swipeActionItem.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16866,9 +16866,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 118 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/swiper.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/swiper.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16912,9 +16912,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 119 */
-/*!***********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/swipterIndicator.js ***!
-  \***********************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/swipterIndicator.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16939,9 +16939,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 120 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/switch.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/switch.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16971,9 +16971,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 121 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/tabbar.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/tabbar.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17001,9 +17001,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 122 */
-/*!*****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/tabbarItem.js ***!
-  \*****************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/tabbarItem.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17029,9 +17029,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 123 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/tabs.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/tabs.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17068,9 +17068,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 124 */
-/*!**********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/tag.js ***!
-  \**********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/tag.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17105,9 +17105,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 125 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/text.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/text.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17151,9 +17151,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 126 */
-/*!***************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/textarea.js ***!
-  \***************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/textarea.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17195,9 +17195,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 127 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/toast.js ***!
-  \************************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/toast.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17232,9 +17232,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 128 */
-/*!**************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/toolbar.js ***!
-  \**************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/toolbar.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17260,9 +17260,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 129 */
-/*!**************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/tooltip.js ***!
-  \**************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/tooltip.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17293,9 +17293,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 130 */
-/*!*****************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/transition.js ***!
-  \*****************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/transition.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17319,9 +17319,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 131 */
-/*!*************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/props/upload.js ***!
-  \*************************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/props/upload.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17363,9 +17363,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 132 */
-/*!*******************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/zIndex.js ***!
-  \*******************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/zIndex.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17392,9 +17392,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 133 */
-/*!******************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/config/color.js ***!
-  \******************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/config/color.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17419,9 +17419,9 @@ color;exports.default = _default;
 
 /***/ }),
 /* 134 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/function/platform.js ***!
-  \***********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/function/platform.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17516,12 +17516,10 @@ platform;exports.default = _default;
 /* 145 */,
 /* 146 */,
 /* 147 */,
-/* 148 */,
-/* 149 */,
-/* 150 */
-/*!******************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/mixin/button.js ***!
-  \******************************************************************************************************/
+/* 148 */
+/*!*******************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/mixin/button.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17539,10 +17537,10 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
     openType: String } };exports.default = _default;
 
 /***/ }),
-/* 151 */
-/*!********************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/libs/mixin/openType.js ***!
-  \********************************************************************************************************/
+/* 149 */
+/*!*********************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/libs/mixin/openType.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17572,10 +17570,10 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
     } } };exports.default = _default;
 
 /***/ }),
-/* 152 */
-/*!**************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/components/u-button/props.js ***!
-  \**************************************************************************************************************/
+/* 150 */
+/*!***************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/components/u-button/props.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17741,17 +17739,17 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
+/* 151 */,
+/* 152 */,
 /* 153 */,
 /* 154 */,
 /* 155 */,
 /* 156 */,
 /* 157 */,
-/* 158 */,
-/* 159 */,
-/* 160 */
-/*!********************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/components/u-loading-icon/props.js ***!
-  \********************************************************************************************************************/
+/* 158 */
+/*!*********************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/components/u-loading-icon/props.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17815,17 +17813,17 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
+/* 159 */,
+/* 160 */,
 /* 161 */,
 /* 162 */,
 /* 163 */,
 /* 164 */,
 /* 165 */,
-/* 166 */,
-/* 167 */,
-/* 168 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/components/u-icon/icons.js ***!
-  \************************************************************************************************************/
+/* 166 */
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/components/u-icon/icons.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18045,10 +18043,10 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
   'uicon-en': "\uE692" };exports.default = _default;
 
 /***/ }),
-/* 169 */
-/*!************************************************************************************************************!*\
-  !*** /Users/yangjunjie/Desktop/shop_app_uni/shop_app_uni/node_modules/uview-ui/components/u-icon/props.js ***!
-  \************************************************************************************************************/
+/* 167 */
+/*!*************************************************************************************************!*\
+  !*** /Users/mj97/Desktop/Project/shop_app_uni/node_modules/uview-ui/components/u-icon/props.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
