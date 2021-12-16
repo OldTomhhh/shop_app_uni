@@ -28,7 +28,7 @@
 					{
 						img: "/static/logo.png",
 						title: "我的XXX币",
-						url: "/pages/lottery/lottery"
+						url: "/pages/shop/details"
 					},
 					{
 						img: "/static/logo.png",
