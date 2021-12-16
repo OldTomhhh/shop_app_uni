@@ -1,6 +1,6 @@
 <template>
 	<view>
-		shop
+		商家
 	</view>
 </template>
 
